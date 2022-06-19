@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "514489539295",
+    "project_id": "testr-a7fa6",
+    "storage_bucket": "testr-a7fa6.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:514489539295:android:a4f3a467314301b0a5676a",
+        "android_client_info": {
+          "package_name": "com.testrivan"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "514489539295-ndns851l67rrmr0sm5345564jqikiq0p.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBbWZfrH4CmIFAv8h3bTXWY1YpajxD9zsY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "514489539295-ndns851l67rrmr0sm5345564jqikiq0p.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
